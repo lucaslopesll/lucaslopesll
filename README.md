@@ -8,7 +8,7 @@
   💌 É só chamar: 
 <div> 
  
-  [<a href = "mailto:lucaslopes.pje@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>]
+  <a href = "mailto:lucaslopes.pje@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/user/garoto.lopes?si=I1rD1uqRSt2OIh0Thjmmeg"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-lopes-606879268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
