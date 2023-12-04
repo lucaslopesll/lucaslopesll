@@ -3,7 +3,7 @@
 ## 🐱‍👤 Olá, meu nome é <strong> Lucas Lopes!</strong>
 
 > 🎯 Sou desenvolvedor Full Stack. <br>
-> 💻 Desde a infância, tenho uma forte afinidade com tecnologia. Destaco-me na resolução de desafios ligados a sistemas, e recentemente, encontrei minha verdadeira paixão na programação. Dedico-me constantemente a aprimorar meus conhecimentos e estou sempre aberto a aprender mais.
+> <p> 🧑🏾 Desde a infância, tenho uma forte afinidade com tecnologia. Destaco-me na resolução de desafios ligados a sistemas, e recentemente, encontrei minha verdadeira paixão na programação. Dedico-me constantemente a aprimorar meus conhecimentos e estou sempre aberto a aprender mais. </p> 
 
 <p align="left">
   💌 É só chamar: 
