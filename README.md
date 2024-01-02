@@ -3,7 +3,7 @@
 ##  Olá, meu nome é <strong> Lucas Lopes! 😀 </strong>
 
 > :fire: Sou desenvolvedor Full Stack. <br>
-> -  Sempre disposto a aprender, pois é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.
+> -  Sempre disposto a aprender!
 
 <p align="left">
   💌 É só chamar: 
