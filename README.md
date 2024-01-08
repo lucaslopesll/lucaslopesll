@@ -2,7 +2,7 @@
 
 ##  Olá, meu nome é <strong> Lucas Lopes! 😀 </strong>
 
-> :fire: Sou desenvolvedor Full Stack. <br>
+> :computer: Sou desenvolvedor Full Stack. <br>
 > -  Minha paixão pela descoberta e a sede de aprendizado sempre foram impulsionadoras na minha trajetória, levando-me a explorar diversos tópicos e áreas. No entanto, foi no mundo da programação que encontrei minha verdadeira vocação.
 
 <p align="left">
