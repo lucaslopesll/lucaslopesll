@@ -6,7 +6,7 @@
 > -  Minha paixão pela descoberta e a sede de aprendizado sempre foram impulsionadoras na minha trajetória, levando-me a explorar diversos tópicos e áreas. No entanto, foi no mundo da programação que encontrei minha verdadeira vocação.
 
 <p align="left">
-  💌 É só chamar: 
+   É só chamar 💌
 <div> 
  
   <a href = "mailto:lucaslopes.pje@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔥 Minhas Skills
+##  Minhas Skills 🔥
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
