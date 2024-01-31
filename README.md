@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-##  Olá, meu nome é <strong> Lucas Lopes! </strong>
+##  Olá, meu nome é <strong> Lucas Lopes! 🙂 </strong>
 
    >  Desenvolvedor Full Stack ☑️ <br>
 > - Sou do interior da Bahia! Minha paixão pela descoberta e a sede de aprendizado sempre foram impulsionadoras na minha trajetória, levando-me a explorar diversos tópicos e áreas. No entanto, foi no mundo da programação que encontrei minha verdadeira vocação.
