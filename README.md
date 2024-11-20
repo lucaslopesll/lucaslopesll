@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-##  Olá, meu nome é <strong> Lucas Lopes!  </strong>
+##  Olá, sou <strong> Lucas Lopes!  </strong>
 
    >  Desenvolvedor Full Stack ☑️ <br>
 > - Atualmente desenvolvendo em PHP e JavaScript, sempre em busca de novos desafios e aprendizados.
